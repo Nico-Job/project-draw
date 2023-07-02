@@ -1,0 +1,26 @@
+body 
+{ 
+      background-color: firebrick;
+      font-size : 20px ;
+
+} 
+Score
+{
+font-size: medium;
+margin-left: 120px;
+text-decoration-color: lime;
+}
+timer
+{
+      font-size: larger;
+      float: right;
+      margin-right: 120px;
+}
+canvas { 
+      border:5px solid rgb(187, 255, 0); 
+      border-radius:20px;
+       animation-name: example;
+        animation-duration: 4s;
+         margin-top: 50px; 
+         animation-iteration-count: infinite; 
+}
